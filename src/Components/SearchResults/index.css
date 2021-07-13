@@ -1,0 +1,36 @@
+.search-results {
+  background-color: #ffffff;
+  flex-grow: 1;
+}
+
+.search-results-heading-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 20px;
+  background-color: #9bcdd1;
+  height: 30px;
+  padding: 5px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #313833;
+}
+
+.close {
+  background-color: transparent;
+  border-width: 0;
+  height: 16px;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  padding-right: 25px;
+}
+
+.close-icon {
+  color: blue;
+}
+
+.search-results-heading {
+  font-size: 14px;
+}

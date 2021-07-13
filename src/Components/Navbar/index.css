@@ -1,0 +1,22 @@
+.hide {
+  display: none;
+}
+
+.MuiAppBar-root {
+  background-color: #ffffff;
+}
+
+.MuiList-subheader {
+  font-size: 14px;
+}
+
+.MuiContainer-root {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: horizontal;
+}
