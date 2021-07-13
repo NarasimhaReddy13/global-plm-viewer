@@ -1,0 +1,1651 @@
+[{
+	"objectType": "Software",
+	"objectName": "78-8129-4786-5",
+	"objectDescription": "Software Upgrade Package, SelfCheck V-Series, 8410, 9410 v4.70",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.13857.9005",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-12-04 14:37:44"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4791-5",
+	"objectDescription": "Firmware, 3M RFID Reader, V5.2.3",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.22145.26243",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2011-10-21 07:53:23"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4793-1",
+	"objectDescription": "Firmware, FPGA, M9100 RFID Reader, V1.0.1.0",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.8946.53235",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2011-10-21 07:53:24"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4795-6",
+	"objectDescription": "ISO Image, CD, RF Tag Printer M813, Driver, V2.00",
+	"objectRev": "A",
+	"objectOwner": "Markusson Linda A",
+	"objectID": "2803.49678.11186.57968",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2011-12-15 13:28:32"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4804-6",
+	"objectDescription": "Software Upgrade Package, M896/4310, v1.10",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.11186.54604",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-02-02 08:18:25"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4894-7",
+	"objectDescription": "ISO Image, Configuration DVD, Windows 7, Ver. 1.10",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.25618.42768",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-11-30 13:10:49"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4923-4",
+	"objectDescription": "ISO Image, CD, SelfCheck V/R-Series, BCS, v4.72 SP Software",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.22976.25660",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-11-29 16:35:01"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4931-7",
+	"objectDescription": "Software Upgrade Package, ICVerify, v4.2.0",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.21457.55807",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2013-02-06 09:34:48"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4944-0",
+	"objectDescription": "Firmware, M9100 Controller, 1.5.5",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.22096.45889",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-08-29 10:23:10"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-4954-9",
+	"objectDescription": "ISO Image, DLA V5.60 / 3.20 Software",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.10225.23955",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-09-21 10:31:02"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-9703-5",
+	"objectDescription": "Firmware, M9100 Controller, 1.6.1",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.7793.3224",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-12-11 08:21:35"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-9728-2",
+	"objectDescription": "Software, RFID Tag Data Interface OBJ, ISO-28560-2",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.8626.11779",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2015-03-20 13:48:23"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8129-9786-0",
+	"objectDescription": "O/S Image, Model 804, V2.00.013.0B",
+	"objectRev": "B",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.10716.51133",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2014-08-08 11:16:51"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8130-7456-0",
+	"objectDescription": "SW  U301 Microcontroller  iD Marker Locator Version 17",
+	"objectRev": "D",
+	"objectOwner": "Parkinson Tim A",
+	"objectID": "2803.49678.27408.14757",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2008-05-08 00:00:00"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8130-9059-0",
+	"objectDescription": "S-W  EEPROM  S Record Download",
+	"objectRev": "D",
+	"objectOwner": "Parkinson Tim A",
+	"objectID": "2803.49678.3249.35753",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2008-06-18 00:00:00"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8135-1546-3",
+	"objectDescription": "Spec.  IC  EEPROM  U308 Programmed S Record Download",
+	"objectRev": "D",
+	"objectOwner": "Parkinson Tim A",
+	"objectID": "2803.49678.3249.40085",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2008-06-18 00:00:00"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8138-1626-7",
+	"objectDescription": "Software, Web Service, M4100",
+	"objectRev": "B",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.24384.47255",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2017-01-17 14:35:35"
+}, {
+	"objectType": "Software",
+	"objectName": "78-8138-1646-5",
+	"objectDescription": "Firmware, EM Reader, M4100",
+	"objectRev": "B",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.24385.23942",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2017-01-17 14:35:38"
+}, {
+	"objectType": "Procedure",
+	"objectName": "75-0501-1836-5_585",
+	"objectDescription": "PV40 Build SWP (OBSOLETE)",
+	"objectRev": "D",
+	"objectOwner": "NU_HG_Engr",
+	"objectID": "2803.49678.31360.30769",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2015-09-01 08:23:00"
+}, {
+	"objectType": "Procedure",
+	"objectName": "75-0501-1839-9_100_Test",
+	"objectDescription": "PV60 Test SWP",
+	"objectRev": "G",
+	"objectOwner": "NU_HG_Engr",
+	"objectID": "2803.49678.22568.19342",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2017-06-14 08:27:31"
+}, {
+	"objectType": "Procedure",
+	"objectName": "75-0501-1868-8_100_Test",
+	"objectDescription": "PV65 Test SWP",
+	"objectRev": "F",
+	"objectOwner": "NU_HG_Engr",
+	"objectID": "2803.49678.24656.35270",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2016-09-06 09:10:29"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-0026-0223-9_585",
+	"objectDescription": "Flex 2ԠJumper Harness Assembly",
+	"objectRev": "C",
+	"objectOwner": "NU_HG_Engr",
+	"objectID": "2803.49678.16672.45163",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2013-08-16 08:30:34"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8129-4393-0",
+	"objectDescription": "Quality Procedure, Model 9100 Detection System (QP-LS-0597)",
+	"objectRev": "B",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.19408.57357",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-03-08 13:56:24"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8129-4595-0",
+	"objectDescription": "Quality Procedure, Part Inspection, Plastic Molded (QP-LS-0011)",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.1217.56347",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-05-30 10:33:13"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8129-4725-3",
+	"objectDescription": "Quality Procedure, Part Inspection, Acrylic Panels(QP-LS-0012)",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.1009.34294",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2011-09-13 11:04:39"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8129-4933-3",
+	"objectDescription": "Procedure, Bar Code Scanner Programming, Datalogic Optical",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.19411.41329",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-05-24 09:56:50"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8129-9796-9",
+	"objectDescription": "Quality Procedure, Model 1230 Disk Unlocker",
+	"objectRev": "A",
+	"objectOwner": "Lib Sys Doc Group",
+	"objectID": "2803.49678.8708.59123",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2013-10-30 14:33:21"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8800-2152-8",
+	"objectDescription": "SWP for Receiving Return Material in Service and Repair",
+	"objectRev": "A",
+	"objectOwner": "jmfadmin",
+	"objectID": "2803.49678.29312.47336",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2016-11-11 07:32:57"
+}, {
+	"objectType": "Procedure",
+	"objectName": "78-8800-2154-4",
+	"objectDescription": "SWP for 965DSP SERIES LOOP ANALYZER TEST SOLUTIONS TEST PROCEDURE",
+	"objectRev": "A",
+	"objectOwner": "jmfadmin",
+	"objectID": "2803.49678.23268.47297",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2016-11-14 07:33:12"
+}, {
+	"objectType": "Regulatory",
+	"objectName": "REG-190635",
+	"objectDescription": "RoHS Certification (blanket) - Dell Inc.",
+	"objectRev": "1",
+	"objectOwner": "Nordling Chad E",
+	"objectID": "2803.49678.20465.12417",
+	"objectState": "Release",
+	"objectVault": "Transportation Safety Division",
+	"objectReleaseDate": "2012-10-30 07:53:37"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-330769",
+	"objectDescription": "Regulatory Portfolio Activities Standard",
+	"objectRev": "3",
+	"objectOwner": "Shultz April",
+	"objectID": "28007.59577.9728.62371",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-12-17 11:24:16"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-331493",
+	"objectDescription": "HCBG Training Standard",
+	"objectRev": "3",
+	"objectOwner": "Shultz April",
+	"objectID": "28007.59577.21504.32546",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-01-22 12:51:26"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-334481",
+	"objectDescription": "Regulatory Strategy Global Compliance Standard",
+	"objectRev": "1",
+	"objectOwner": "Steward Gail L",
+	"objectID": "28007.59577.12288.15591",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-12-18 08:58:34"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-334612",
+	"objectDescription": "Regulatory Operations Activities Standard",
+	"objectRev": "1",
+	"objectOwner": "Rittle Leigh Karen",
+	"objectID": "28007.59577.10244.10906",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-09-20 10:28:39"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-362900",
+	"objectDescription": "Clinical Research Standard",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.30464.27685",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-08-07 11:00:06"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-380219",
+	"objectDescription": "HCBG Global Change Control Standard",
+	"objectRev": "1",
+	"objectOwner": "Pulido Jacqueline",
+	"objectID": "28007.59577.768.24650",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2018-11-16 12:37:01"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-630479",
+	"objectDescription": "3M Sponsored Clinical/Non-Clinical Research Global Compliance Standard",
+	"objectRev": "3",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.9984.8580",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-23 08:25:35"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-645691",
+	"objectDescription": "Publication Standard",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.12032.8673",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-10-15 04:00:26"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-652208",
+	"objectDescription": "U.S Patient Privacy Program Requirements Policy",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.9216.8979",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-12-17 11:15:50"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-675424",
+	"objectDescription": "Computer System Assurance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.10752.36256",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-05-19 19:49:11"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-683517",
+	"objectDescription": "Interactions with Health Care Professionals (HCP)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.17920.30396",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-21 09:31:56"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-685457",
+	"objectDescription": "Health Care Compliance & Clinical Research Operations Standard",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.0.53948",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-01 04:00:55"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-689402",
+	"objectDescription": "Application of Clinical Evidence",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.512.22670",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-01 04:01:06"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-CN-283306",
+	"objectDescription": "CAPA) ",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.13312.4861",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-09 07:57:59"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-CN-287013",
+	"objectDescription": "",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.9836.41028",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2016-12-06 19:48:34"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-209291",
+	"objectDescription": "Cubitron II 36+ Recipe: Bonded wheels, shape 41 and 42 with thickness 1.6 and thicker",
+	"objectRev": "5",
+	"objectOwner": "Besonen Tom P",
+	"objectID": "15283.4042.17920.29882",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2019-06-10 06:26:15"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-215654",
+	"objectDescription": "577F Flap Discs and Private label with the same construction.",
+	"objectRev": "2",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.26372.11324",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2015-09-21 06:13:37"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-215887",
+	"objectDescription": "566A Flap Discs and Private label with the same construction.",
+	"objectRev": "2",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.4272.21467",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2015-09-30 04:22:21"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-216786",
+	"objectDescription": "UNIFAM Flap Discs and Private label with the same construction.",
+	"objectRev": "2",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.23936.49447",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2015-09-30 04:22:18"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-217181",
+	"objectDescription": "967A Cubitron II Flap Discs",
+	"objectRev": "3",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.4996.10321",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2016-08-17 04:34:40"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-218197",
+	"objectDescription": "947D, 747D ad private label flap discs with the same construction",
+	"objectRev": "3",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.26624.6441",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2016-08-17 05:13:17"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-233073",
+	"objectDescription": "3M COW OD 75-400mm x THS 0,8-4mm x ID 6,35-32mm type 41 STONE and private brands with the same specification",
+	"objectRev": "1",
+	"objectOwner": "Bachurska Ewa",
+	"objectID": "15283.4042.15516.34048",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2014-05-06 09:21:52"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-288225",
+	"objectDescription": "Samurai- Cubitron II 41 and 42 type bonded wheels with PSG mineral and thickness less than 1,6mm or with recipe 60/40+.",
+	"objectRev": "3",
+	"objectOwner": "Besonen Tom P",
+	"objectID": "15283.4042.4608.7379",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2019-06-11 08:39:06"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-288230",
+	"objectDescription": "969F Cubitron II Flap Discs",
+	"objectRev": "1",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.24160.61305",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2016-10-05 13:13:24"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-292813",
+	"objectDescription": "786F Cubitron II Flap Discs for AAD",
+	"objectRev": "1",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.3752.58121",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2016-08-17 04:28:57"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-416506",
+	"objectDescription": "Silver 60+ Recipe: Bonded wheels, shape 41 and 42 with thickness thinner than 1.6mm",
+	"objectRev": "1",
+	"objectOwner": "Schillo-Armstrong Melissa C",
+	"objectID": "15283.4042.23552.52423",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2019-06-11 08:39:32"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-416507",
+	"objectDescription": "Silver 36+ Recipe: Bonded wheels, shape 41 and 42 with thickness 1.6 and thicker",
+	"objectRev": "1",
+	"objectOwner": "Schillo-Armstrong Melissa C",
+	"objectID": "15283.4042.4864.49744",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2019-09-25 06:48:41"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-528045",
+	"objectDescription": "Fusion (PN01994) Product Standard: Bonded wheels, T41, 105x1.3mm",
+	"objectRev": "2",
+	"objectOwner": "Besonen Tom P",
+	"objectID": "15283.4042.28416.37883",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2020-07-02 09:17:29"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "PS-ASD-716804",
+	"objectDescription": "769F Product Standard",
+	"objectRev": "1",
+	"objectOwner": "Hinterberger Thomas",
+	"objectID": "15283.4042.14848.58720",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2020-09-09 08:47:46"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "RM-ASD-208841",
+	"objectDescription": "Heavy liquid paraffin/paraffin oil",
+	"objectRev": "3",
+	"objectOwner": "Gorka Malgorzata",
+	"objectID": "15283.4042.28929.1978",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2019-07-04 01:06:58"
+}, {
+	"objectType": "Generic Specification",
+	"objectName": "RM-ASD-209287",
+	"objectDescription": "Fiberglass mesh/scrim",
+	"objectRev": "3",
+	"objectOwner": "Gorka Malgorzata",
+	"objectID": "15283.4042.32256.11077",
+	"objectState": "Release",
+	"objectVault": "Abrasive Systems Division",
+	"objectReleaseDate": "2019-04-09 04:23:57"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-GCS-CN-291795",
+	"objectDescription": " (Management Review)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.25344.50894",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-12-23 08:45:30"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-657815",
+	"objectDescription": "Labeling and Graphics Request Process",
+	"objectRev": "1",
+	"objectOwner": "Yang Sarah",
+	"objectID": "28007.59577.25088.24013",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-01-30 09:43:00"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-658329",
+	"objectDescription": "Drug Establishment Registration and Drug Product Listings",
+	"objectRev": "1",
+	"objectOwner": "Yang Sarah",
+	"objectID": "28007.59577.20224.13852",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-02 15:35:42"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670335",
+	"objectDescription": "Institutional Animal Care and Use Committee (IACUC)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.12033.257",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:39"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670336",
+	"objectDescription": "Traffic Flow and Dress Code",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.9728.59086",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:33"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670337",
+	"objectDescription": "Facility Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.29953.1458",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:18"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670338",
+	"objectDescription": "Reagents, Solutions and Supplies; Handling and Storage",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.16640.10968",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:04"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670340",
+	"objectDescription": "Facility Pest Control",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.3840.4233",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:42"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670343",
+	"objectDescription": "Document Archives, Record Storage and Retrieval",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.31488.63639",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:43"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670346",
+	"objectDescription": "Facility Disaster Plan",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.14848.63546",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:53"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670347",
+	"objectDescription": "Occupational Health and Safety Program",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.21760.49419",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:11"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670350",
+	"objectDescription": "Equipment Calibration and Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.15104.50424",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:01"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670353",
+	"objectDescription": "Procurement  of Research Animals",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.15360.17391",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:46"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670357",
+	"objectDescription": "Equipment Sanitation",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.4864.48538",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:49"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670361",
+	"objectDescription": "Support Area Sanitation Cleaning Schedule",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.2560.47601",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:47"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670725",
+	"objectDescription": "Qualification of Animals from New Vendors",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.27392.22072",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:03"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670726",
+	"objectDescription": "Environmental Parameters for Animal Rooms",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.5632.39317",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:15"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670728",
+	"objectDescription": "Necropsy Room Procedures and Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.28672.61867",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:07"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670732",
+	"objectDescription": "Animal Medical Administrative Record",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.26624.51769",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:00"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670736",
+	"objectDescription": "Animal Pain Assessment",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.3584.10775",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:56"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670739",
+	"objectDescription": "Necropsy and Disposal",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.26624.42967",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:08"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670744",
+	"objectDescription": "Order, Receipt, and Handling of Lab Diets and Bedding",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.19200.56589",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:00:50"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670745",
+	"objectDescription": "Canine Care and Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.18944.54975",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:27"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670746",
+	"objectDescription": "Swine Care and Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.28416.57819",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:24"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670747",
+	"objectDescription": "Rabbit Care and Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.30464.11989",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:55"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670749",
+	"objectDescription": "Rodent Care and Maintenance",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.7680.26482",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:58"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670760",
+	"objectDescription": "Monitoring: Water Quality and Fixed Equipment Surface Sanitation",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.4096.3645",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:35"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670761",
+	"objectDescription": "Monitoring: Rodent Colony Health Isolation",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.27904.46181",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:26"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670762",
+	"objectDescription": "Deployment and Care of Sentinel Mice and Rats",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.16896.3138",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:37"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670763",
+	"objectDescription": "Euthanasia",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.13824.52107",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:53"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670767",
+	"objectDescription": "Personnel Preparation for Performance of Aseptic Procedures",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.13312.15304",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:15"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670769",
+	"objectDescription": "Surgical Suite Visitor Observer Preparation",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.16640.28909",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:29"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670774",
+	"objectDescription": "Reagents, Solutions and Supplies; Handling and Storage Surgical Area",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.1792.63895",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:32"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670775",
+	"objectDescription": "Animal Monitoring and Daily Care",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.3072.22188",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:34"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670777",
+	"objectDescription": "Animal Preparation for Surgical Procedures",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.23552.64123",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:48"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670778",
+	"objectDescription": "Animal Care and Use During Surgical Procedures",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.10496.33829",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:12"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670779",
+	"objectDescription": "Animal Care and Evaluation in Post-Operative Recovery Period",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.25856.59834",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:52"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670780",
+	"objectDescription": "Recording of Original Data",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.15360.10648",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:22"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670782",
+	"objectDescription": "Separation Protocol for Blood or Blood Products for Export to the European Union",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.3072.57832",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:21"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670784",
+	"objectDescription": "Research Animal Adoption",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.29440.61573",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:40"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-670785",
+	"objectDescription": "Prepare & Review Chapter 4 C  Health Certificate & Other Documents for Shipment Porcine Blood to EU",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.17152.11533",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:31"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-675384",
+	"objectDescription": "Management of Biocompatibility Testing",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.14336.57802",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:02:40"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-675385",
+	"objectDescription": "Procedure for Requesting a Microbiologist for Clinical or Pre-Clinical Studies",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.19968.44660",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:45"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-676187",
+	"objectDescription": "Study Flow Procedure from Initiation to Closure",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.3072.12875",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 04:01:42"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-683521",
+	"objectDescription": "Tier and Fair Market Value Calculations for Professional Arrangements with HCPs",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.21760.47776",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-06-30 08:36:23"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-683522",
+	"objectDescription": "Statement of Work and Service Report Process for Professional Arrangements with HCPs",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.17152.51973",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-06-30 08:36:38"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-685462",
+	"objectDescription": "Medical Writing Requests",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.23296.26539",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-10-15 04:00:50"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-685463",
+	"objectDescription": "Medical Publications Processes and Tools",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.5376.17996",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-10-15 04:00:47"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-692821",
+	"objectDescription": "Literature Searches for Competent Authorities",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.22528.2697",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-10-15 04:00:54"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-692823",
+	"objectDescription": "General Requests for Literature Searches",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.24832.48135",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-10-15 04:00:57"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-287018",
+	"objectDescription": "Local regulations do not require that the WI be translated (Complaint Samples)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.2736.31375",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-08-11 09:42:15"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-630484",
+	"objectDescription": "￠(Trial Master File Development and Maintenance)",
+	"objectRev": "2",
+	"objectOwner": "stanleyadmin",
+	"objectID": "28007.59577.13056.7695",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-29 14:10:24"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-630485",
+	"objectDescription": "￠(Investigatorҳ Brochure)",
+	"objectRev": "2",
+	"objectOwner": "stanleyadmin",
+	"objectID": "28007.59577.6656.43094",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-29 14:10:00"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-630487",
+	"objectDescription": "￠(Investigator Selection)",
+	"objectRev": "2",
+	"objectOwner": "stanleyadmin",
+	"objectID": "28007.59577.8704.7422",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-29 14:10:47"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-630490",
+	"objectDescription": "￠(Monitoring)",
+	"objectRev": "2",
+	"objectOwner": "stanleyadmin",
+	"objectID": "28007.59577.8192.35984",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-29 14:08:58"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-630493",
+	"objectDescription": "Study Reports)",
+	"objectRev": "2",
+	"objectOwner": "stanleyadmin",
+	"objectID": "28007.59577.32512.19115",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-29 14:08:31"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-630495",
+	"objectDescription": "￠(Safety and Event Management)",
+	"objectRev": "2",
+	"objectOwner": "stanleyadmin",
+	"objectID": "28007.59577.6656.27879",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:18:13"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-631660",
+	"objectDescription": "Informed Consent)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.17408.42206",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:17:31"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-631664",
+	"objectDescription": "Data Management)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.7168.24186",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:16:57"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-634050",
+	"objectDescription": "Device Management)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.1281.176",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:16:24"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-634053",
+	"objectDescription": "Registration of Clinical Research)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.17920.52448",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:15:50"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-637846",
+	"objectDescription": "￠(Statistics)",
+	"objectRev": "1",
+	"objectOwner": "Shultz April",
+	"objectID": "28007.59577.11520.16699",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:15:20"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-648881",
+	"objectDescription": "￠(Subject Recruitment, Consent, Enrollment, and Screening)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.22016.52008",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:14:50"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-CN-648882",
+	"objectDescription": "￠(Source Documentation and Record Management)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.29696.49847",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-30 09:14:05"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-DE-287016",
+	"objectDescription": "Anweisungen f철die Entgegennahme von Reklamationen",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.22056.38807",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-01-20 04:07:54"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-DE-287018",
+	"objectDescription": "Anweisungen f철Reklamationsproben (Complaint Samples)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.24576.2020",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:25:20"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-DE-289431",
+	"objectDescription": "Anweisungen f철die Verarbeitung von Reklamationen 좥r CFR (Complaints)",
+	"objectRev": "2",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.28160.12211",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:23:06"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-DE-301176",
+	"objectDescription": "Prozess zur Anforderung von Korrekturma߮ahmen von einem Lieferanten (SCAR) (Supplier Mgmt)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.13256.14246",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-07-28 03:17:23"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-ES-287016",
+	"objectDescription": "Instrucciones para el ingreso de reclamos",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.4960.47687",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2016-12-15 14:07:31"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-ES-287018",
+	"objectDescription": "Instrucciones para muestras de reclamos (Complaint Samples)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.17408.12922",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:18:12"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-ES-289431",
+	"objectDescription": "Instrucciones para procesar reclamos con CFR (Complaints)",
+	"objectRev": "2",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.11776.49780",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:19:57"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-ES-301176",
+	"objectDescription": "Proceso de Solicitud de medida correctiva por parte del proveedor (SCAR)  (Supplier mgmt.)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.13256.52127",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-06-08 14:20:35"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-JP-287016",
+	"objectDescription": "",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.3536.56867",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2016-12-05 07:45:43"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-JP-287018",
+	"objectDescription": " (Complaint Samples)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.26368.6463",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:19:14"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-JP-289431",
+	"objectDescription": "CFR (Complaints)",
+	"objectRev": "2",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.18176.35693",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:24:37"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-JP-301176",
+	"objectDescription": "﨓CAR)Supplier mgmt.)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.18488.35707",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-06-11 18:52:28"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-JP-414096",
+	"objectDescription": "￨BER)￠(Biological Evaluation Report (BER) Writing)",
+	"objectRev": "3",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.24320.62701",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-31 08:39:53"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-KR-287016",
+	"objectDescription": "￠￠",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.20632.2587",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-01-19 18:21:36"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-KR-287018",
+	"objectDescription": "￠￠￠(Complaint Samples)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.13056.7888",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:21:23"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-KR-289431",
+	"objectDescription": "CFR￠￠￠￠(Complaints)",
+	"objectRev": "2",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.31744.53604",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:16:22"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-KR-301176",
+	"objectDescription": "﨓CAR) ￠(Supplier mgmt.)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.32256.48364",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-06-27 20:29:31"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PL-287016",
+	"objectDescription": "Instrukcja przyjmowania reklamacji  (Complaint Process)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.19208.29801",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-03-16 03:18:14"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PL-287018",
+	"objectDescription": "Instrukcje dotyczace pr㢥k reklamacyjnych  (Complaint Samples)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.2816.61040",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:23:49"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PL-289431",
+	"objectDescription": "Instrukcje dotyczace przetwarzania reklamacji z෹korzystaniem CFR (Complaints)",
+	"objectRev": "2",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.1536.46900",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:22:28"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PT-287016",
+	"objectDescription": "Instru絥s para Recebimento de Reclama絥s",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.2112.39086",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2016-10-03 18:37:25"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PT-287018",
+	"objectDescription": "Instru絥s para amostras de reclama磯 (Complaint Samples)",
+	"objectRev": "3",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.11264.62363",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:20:46"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PT-289431",
+	"objectDescription": "Instru絥s para processamento de reclama絥s utilizando o CFR (Complaints)",
+	"objectRev": "2",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.12800.55492",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2019-10-30 10:17:26"
+}, {
+	"objectType": "Procedure",
+	"objectName": "HCBG-WI-PT-301176",
+	"objectDescription": "Processo de Solicita磯 de a磯 corretiva do fornecedor (SCAR)  (Supplier mgmt.)",
+	"objectRev": "1",
+	"objectOwner": "Norberg Karen",
+	"objectID": "28007.59577.4720.55623",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2017-10-02 19:23:55"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000001",
+	"objectDescription": "Informed Consent Template for External Device Studies in the US (HCBG-WI-631660)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.2048.14577",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-01 05:25:13"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000002",
+	"objectDescription": "Informed Consent Template for External Device Studies OUS (HCBG-WI-631660)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.15360.19154",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-01 05:17:21"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000003",
+	"objectDescription": "Informed Consent Template for In-house Device Studies (HCBG-WI-631660)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.17664.35036",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-01 05:25:41"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000004",
+	"objectDescription": "Site Feasibility Form (HCBG-WI-630487)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.24576.61074",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-01 08:04:33"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000005",
+	"objectDescription": "Financial Disclosure Form (HCBG-WI-630487)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.15872.25895",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-26 07:53:51"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000006",
+	"objectDescription": "Site Qualification and Selection Letters (HCBG-WI-630487)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.1793.3269",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-26 07:53:42"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000007",
+	"objectDescription": "Initiation Visit and Authorization to Enroll Letters (HCBG-WI-630490)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.28928.30973",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-26 07:53:56"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000008",
+	"objectDescription": "Monitoring Visit and Enrollment Completion Letters (HCBG-WI-630490)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.20224.40838",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-26 07:53:47"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000009",
+	"objectDescription": "Data Clarification Form (HCBG-WI-631664)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.7936.39671",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-01 05:24:17"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000010",
+	"objectDescription": "Device Accountability Log for Shipment (HCBG-WI-634050)",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.20224.21027",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-04-01 05:33:38"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000011",
+	"objectDescription": "Subject Binder Form (HCBG-WI-648882)",
+	"objectRev": "2",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.12800.1195",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-08-19 14:25:32"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000012",
+	"objectDescription": "Progress Note Form (HCBG-WI-648882)",
+	"objectRev": "3",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.29184.16615",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-06-24 07:06:14"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000013",
+	"objectDescription": "Study Subject Identification and Enrollment Log (HCBG-WI-648881)",
+	"objectRev": "3",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.28928.2766",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-04 07:57:20"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000014",
+	"objectDescription": "Documentation of Informed Consent (HCBG-WI-648881)",
+	"objectRev": "4",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.11264.32848",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-09-04 07:57:25"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000015",
+	"objectDescription": "Animal Health Summary",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.18688.31325",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 07:29:10"
+}, {
+	"objectType": "Form",
+	"objectName": "HCBG-FORM-000016",
+	"objectDescription": "Anesthesia Induction",
+	"objectRev": "1",
+	"objectOwner": "Stanley Robin",
+	"objectID": "28007.59577.15616.13735",
+	"objectState": "Release",
+	"objectVault": "Health Care Business Sponsor",
+	"objectReleaseDate": "2020-07-13 07:29:30"
+}]
