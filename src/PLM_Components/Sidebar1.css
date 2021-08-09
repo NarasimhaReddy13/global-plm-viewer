@@ -1,0 +1,45 @@
+.sidebars-criteria-container {
+    display: flex;
+}
+@media screen and (max-width: 768px) {
+    .sidebars-criteria-container {
+        flex-direction: column;
+    }
+}
+
+.sidebar-search-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-container {
+    border: 1px solid black;
+    height: 300px;
+    text-align: left;
+}
+@media screen and (max-width: 768px) {
+    .sidebar-container{
+        width: 94vw;
+        height: 100px;
+    }
+}
+.quick-link-heading {
+    background-color: #9dcfcd;
+    font-size: 18px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.quick-link-container {
+    background-color: white;
+    text-align: left;
+    margin-top: 0px;
+    height: 93%;
+}
+.quick-link {
+    color: blue;
+    text-decoration: none;
+    font-size: 14px;
+    padding-right: 7px;
+}

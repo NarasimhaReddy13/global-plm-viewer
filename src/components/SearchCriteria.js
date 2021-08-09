@@ -3,6 +3,8 @@ import {Button, Container, List} from '@material-ui/core';
 import { withStyles} from '@material-ui/core/styles';
 import SearchResultsTable from './Table(Results)Container'
 import Data from './Results.json'
+import axios from 'axios';
+
 
 // Where do we place the code to make GET Request --- In the componentDidMount() lifecycle method -- only once executed
 
@@ -20,32 +22,41 @@ class SearchCriteriaComponent extends Component {
 
     state = {results: false, docNumber: '', owner: '', description: '', limitedResults: '100', rows: '', type: "Procedure", division: 'Transportation Safety Division'}
 
+    componentDidMount() {
+        axios.get('http://localhost:9097/pdmvwr/documents')
+        .then(response => {
+            console.log(response)
+            this.setState({rows: response.Data})
+        })
+        .catch(error => {
+            console.log(error)
+            this.setState({rows: Data})
+        })
+
+    }
+
     onChangeDocNumber = (event) => {
         this.setState({docNumber: event.target.value})
     }
-    onChangeOwner = (event) => {
-        this.setState({owner: event.target.value})
-    }
+
     onChangeDescription = (event) => {
         this.setState({description: event.target.value})
     }
-    limitedResults = (event) => {
-        this.setState({limitedResults: event.target.value})
-    }
 
     resetData = () => {
-        this.setState({docNumber: '', description: '', keyword: '', owner: '', location: '', type: 'Procedure', results: '', division: 'Transportation Safety Division'})
+        this.setState({docNumber: '', description: '', keyword: '', owner: '', location: '', 
+        type: 'Procedure', division: 'Transportation Safety Division', subType: 'ALL', })
     }
 
     searchResults = (e) => {
         const { docNumber, type} = this.state
 
         e.preventDefault()
-        
+
         this.setState({
-            rows: Data.filter(each => (each.objectID === docNumber) || (each.objectType === type))
+            rows: Data.filter(each => (each.objectID === docNumber) || (each.objectType === type), (this.setState({results: true})))
         })
-        this.setState({results: true})
+        
     }
 
     closeAndOpenSearchResults = () => {
@@ -64,7 +75,7 @@ class SearchCriteriaComponent extends Component {
     }
 
     render() {
-        const {docNumber, owner, description, keyword, limitedResults, location, type, division} = this.state
+        const {docNumber, description, keyword, limitedResults, location, type, division} = this.state
         return(
         <Container maxWidth='xl'>
             <div position="relative" className='search-containers'>
@@ -99,7 +110,7 @@ class SearchCriteriaComponent extends Component {
                     </div>
                     <div className='aligining-items'>
                         <label htmlFor = 'outlined-basic4' className='label-color'> Owner: </label>
-                        <input id="outlined-basic4" value={owner} className='input-text' onChange={this.onChangeOwner}/>
+                        <input id="outlined-basic4" className='input-text'/>
                     </div>
                     <div className='aligining-items'>
                         <label htmlFor = 'outlined-basic5' className='label-color'> Include Secured: </label>
@@ -125,7 +136,7 @@ class SearchCriteriaComponent extends Component {
                     </div>
                     <div className='aligining-items'>
                         <label htmlFor = 'outlined-basic9' className='label-color'> Results Limited to: </label>
-                        <input id="outlined-basic9" value={limitedResults} className='input-text' onChange={this.limitedResults} readOnly='readonly'/>
+                        <input id="outlined-basic9" value={limitedResults} className='input-text' readOnly='readonly'/>
                     </div>
                     <div className='aligining-items'>
                         <label htmlFor = 'outlined-basic10' className='label-color'> Location: </label>
@@ -141,7 +152,7 @@ class SearchCriteriaComponent extends Component {
                 </List>
             </div>
 
-            {(this.state.results && this.state.docNumber !== '')  && <SearchResultsTable rows={this.state.rows}/>}
+            {<SearchResultsTable rows={this.state.rows} results={this.state.results} documentNum = {this.state.docNumber} />}
         </Container>
         )
     }             

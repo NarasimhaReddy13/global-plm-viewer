@@ -24,9 +24,7 @@ const StyledButton = withStyles({
     fontSize: 14,
     fontWeight: 'bold'
   },
-  label: {
-    textTransform: 'capitalize',
-  },
+  label: {textTransform: 'capitalize',},
 })(Button);
 const StyledButton1 = withStyles({
   root: {
@@ -37,9 +35,7 @@ const StyledButton1 = withStyles({
     fontSize: 14,
     fontWeight: 'bold'
   },
-  label: {
-    textTransform: 'capitalize',
-  },
+  label: { textTransform: 'capitalize',},
 })(Button);
 
 const useStyles = makeStyles((theme) => ({
@@ -98,12 +94,9 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1,
     padding: theme.spacing(3),
   },
-  globalHeading: {
-fontWeight: 'bold',
-fontStyle: 'italic', 
-fontSize: 18
-    },
-    navbarContainer: {display: 'flex',justifyContent: 'space-between',alignItems: 'center'}
+  globalHeading: {fontWeight: 'bold', fontStyle: 'italic', fontSize: 18
+  },
+  navbarContainer: {display: 'flex',justifyContent: 'space-between',alignItems: 'center'}
 }));
 
 export default function MiniDrawer() {
@@ -112,10 +105,28 @@ export default function MiniDrawer() {
   const theme = useTheme();
   const [open, setOpen] = React.useState(false);
 
-  const handleDrawerOpen = () => { 
-    setOpen(true); 
+  const [openQuickLink, setOpenQuickLink] = React.useState(false);
+  const [openHelp, setOpenHelp] = React.useState(false);
+
+  const handleOpenQuickLinkClick = () => {
+    setOpen(true);
+    setOpenQuickLink(!openQuickLink);
   };
-  const handleDrawerClose = () => { setOpen(false); };
+
+  const handleOpenHelpClick = () => {
+    setOpen(true);
+    setOpenHelp(!openHelp);
+  };
+
+  const handleDrawerOpen = () => {
+    setOpen(true);
+  };
+
+  const handleDrawerClose = () => {
+    setOpen(false);
+    setOpenQuickLink(false);
+    setOpenHelp(false);
+  };
 
   return (
     <div className={classes.root}>
@@ -131,7 +142,7 @@ export default function MiniDrawer() {
           <Container className={classes.navbarContainer}>
             <Typography noWrap className={classes.globalHeading}> Global PLM Document Web Viewer </Typography>
             <List className='search-criteria-list'>
-                <StyledButton> Welcome: Narasimha </StyledButton> |
+                <StyledButton> Welcome: A72MRZZ </StyledButton> |
                 <StyledButton> Contact Us </StyledButton> |
                 <StyledButton> Log Off </StyledButton>
             </List>
@@ -148,16 +159,16 @@ export default function MiniDrawer() {
           </IconButton>
         </div>
         <Divider />
-            <ListItem>
+            <ListItem onClick={handleOpenQuickLinkClick}>
               <ListItemIcon> <Link /> </ListItemIcon>
               <ListItemText component='p' primary='Quick Links' style={{fontSize: '18px'}}/>
             </ListItem>
 
-        <List>
+        {handleOpenQuickLinkClick && <List>
             <ListItem button>
               <ListItemIcon> <Home fontSize = 'small'/> </ListItemIcon>
               <div style={{ width: 200, whiteSpace: 'nowrap' }}>
-                  <Box component="div" textOverflow="ellipsis" overflow="hidden" className='link-headings' data-tip='Home'> <ReactTooltip/> Home </Box>
+                  <Box component="div" textOverflow="ellipsis" overflow="hidden" className='link-headings' data-tip='Home' href='google.com' target='_blank'> <ReactTooltip/> Home </Box>
               </div>
             </ListItem>
             <ListItem button>
@@ -166,22 +177,22 @@ export default function MiniDrawer() {
                 <Box component="div" textOverflow="ellipsis" overflow="hidden" className='link-headings' data-tip='Global PLM Information Center'> <ReactTooltip/> Global PLM Information Center </Box>
               </div>
             </ListItem>
-        </List>
+        </List> }
 
         <Divider />
-            <ListItem>
+            <ListItem onClick={handleOpenHelpClick}>
               <ListItemIcon> <Help fontSize='small'/> </ListItemIcon>
               <ListItemText primary = 'Help'/>
             </ListItem>
 
-        <List>
+        {handleOpenHelpClick && <List>
             <ListItem button>
               <ListItemIcon> <ContactSupport fontSize='small'/> </ListItemIcon>
               <div style={{ width: 200, whiteSpace: 'nowrap' }}>
                 <Box component="div" textOverflow="ellipsis" overflow="hidden" className='link-headings' data-tip='Training & Contact'> <ReactTooltip/> Training & Contact </Box>
               </div>
             </ListItem>
-        </List>
+        </List> }
       </Drawer>
 
       <main className={classes.content}>
@@ -192,7 +203,7 @@ export default function MiniDrawer() {
         <List className='search-criteria-list1'>
           <StyledButton1> Copyright </StyledButton1> |
           <StyledButton1> 3M Internal Use Only </StyledButton1> |
-          <StyledButton1> Narasimha </StyledButton1>
+          <StyledButton1> PDMVWR_V01_02_01_05 </StyledButton1>
         </List>
       </main>
     </div>
